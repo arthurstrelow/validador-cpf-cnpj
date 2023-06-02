@@ -1,2 +1,2 @@
-# validador-cpf-cnpj
-Validador de CPF e de CNPJ em JavaScript
+# Validador de CPF e CNPJ
+Validador de CPF e de CNPJ utilizando Classe em JavaScript
