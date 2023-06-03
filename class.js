@@ -29,8 +29,6 @@ class validator_cpf_cnpj{
             peso2: 11,
             primeirasoma: 0,
             segundasoma: 0,
-            primeirodigito: 0,
-            segundodigito: 0
         }
         for (let numero in cpf.slice(0, 9)){
             valores.primeirasoma += cpf[numero] * valores.peso1
